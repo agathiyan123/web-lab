@@ -2,6 +2,10 @@ body {
   font-family: Arial, sans-serif;
   margin: 2rem;
 }
+header {
+  background-color: #2563eb;
+  padding: 1rem;
+}
 
 h1 {
   color: #2563eb;
